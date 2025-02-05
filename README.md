@@ -1,4 +1,5 @@
-<h2 align="left">
+<h2>Olá tudo bem? bem vindo ao meu perfil!</h2>
+<h4 align="left">
 Sou um profissional apaixonado por programação com 4 anos de experiência em desenvolvimento front-end mobile, desde estágio até trabalho de carteira assinada. Minha jornada na área começou no Centro Internacional de Tecnologia de Software (CITS), uma empresa reconhecida no Brasil, onde adquiri expertise em Android, iOS e tecnologias híbridas com foco em Flutter.
 
 Além de minha experiência prática no desenvolvimento de aplicativos móveis, também tenho uma forte vocação para a educação. Durante minha carreira, tive a oportunidade de liderar equipes de desenvolvimento, treinando estagiários e compartilhando meu conhecimento com colegas de trabalho.
@@ -6,13 +7,13 @@ Além de minha experiência prática no desenvolvimento de aplicativos móveis, 
 Minhas responsabilidades incluíram desde a manutenção de aplicações existentes até a criação de novas versões de aplicativos, passando pela concepção de conceitos desde o início até a publicação nas lojas. Sempre priorizei a qualidade do trabalho e a satisfação do cliente, o que me permitiu entregar projetos com sucesso, mesmo em condições desafiadoras.
 
 Possuo experiência em JavaScript com React Native, mas minha especialização é em Swift e Flutter. Mantenho-me atualizado com certificações e cursos relevantes na área e estou sempre em busca de novas maneiras de aprimorar minhas habilidades técnicas e didáticas.
-</h2>
+</h4>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielAderaldo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielAderaldo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielAderaldo&theme=default&show_icons=true&hide_border=true&count_private=true" alt="GabrielAderaldo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAderaldo&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="GabrielAderaldo's GitHub Stats" />
 </div>
 
 ###
@@ -50,11 +51,3 @@ Possuo experiência em JavaScript com React Native, mas minha especialização �
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GabrielAderaldo/GabrielAderaldo/output/snake.svg" alt="Snake animation" />
-
-###
